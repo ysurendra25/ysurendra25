@@ -144,9 +144,8 @@ open_to_work: true ✅
 |:---|:---|:---|
 | Java Full Stack Development | Kodnest | 2025 |
 | Data Analyst | Rooman Technologies | 2025 |
-| Python Full Stack | ExcelR | — |
-| Cloud Computing | Simplilearn / NPTEL | — |
-| HTML & CSS | Study Comrade | — |
+| Cloud Computing | Simplilearn / NPTEL | 2025 |
+| HTML & CSS | Study Comrade | 2024 |
 
 ---
 
