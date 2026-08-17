@@ -3,10 +3,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Surendra+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Spring+Boot+%7C+React+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Surendra+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Spring+Boot+%7C+React+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <!-- Profile Avatar with Ring Effect -->
-<img src="https://avatars.githubusercontent.com/ysurendra25" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C03;" alt="Surendra's Profile Picture" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQHoTV6hq4uNsA/profile-displayphoto-scale_200_200/B56ZvZu.eiHsAc-/0/1768884531096?e=1788393600&v=beta&t=152Zyz_DNWt3aUKWJd_9yF7ul4ujoylJyBHr551ik6A" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C03;" alt="Surendra's Profile Picture" />
 
 ### 🎓 B.Tech CSE 2025 Graduate | 📍 Bengaluru, India
 
@@ -41,13 +41,10 @@ open_to_work: true ✅
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysurendra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F75C03&icon_color=F75C03" height="170" alt="GitHub Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysurendra25&theme=tokyonight&hide_border=true&ring=F75C03&fire=F75C03&currStreakLabel=F75C03" height="170" alt="GitHub Streak Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=ysurendra25&theme=tokyonight&hide_border=true&layout=compact&title_color=F75C03&langs_count=8" height="170" alt="Top Languages Card" />
-</div>
+<img src="https://github-readme-stats.shion.dev/api?username=ysurendra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F75C03&icon_color=F75C03" height="200" alt="GitHub Stats Card" />
+<img src="https://streak-stats.demolab.com/?user=ysurendra25&theme=tokyonight&hide_border=true&ring=F75C03&fire=F75C03&currStreakLabel=F75C03" height="200" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ysurendra25&theme=tokyonight&hide_border=true&layout=compact&title_color=F75C03&langs_count=8" height="200" alt="Top Languages Card" />
 
 ---
 
@@ -95,16 +92,16 @@ open_to_work: true ✅
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🛒 CarRentalSystem — Full Stack Backend</h3>
-<p align="center"><strong>Spring Boot | JWT | Spring Security | MySQL</strong></p>
-<p align="center">Built a secure car rental backend with JWT authentication, role-based access (Admin/Owner/Customer), booking & payment flow, penalty calculation for late returns, and Spring Data JPA with MySQL. All endpoints tested via Postman.</p>
-<p align="center"><a href="https://github.com/ysurendra25/CarRentalSystem"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"/></a></p>
+<h3 align="center">🛒 ShopSphere — Secure E-commerce Backend</h3>
+<p align="center"><strong>Spring Boot | JWT | Spring Security | MySQL | React (WIP)</strong></p>
+<p align="center">Built a secure e-commerce backend with JWT-based authentication, 10+ REST APIs for product/cart/order management, Spring Data JPA with MySQL, and Postman-tested endpoints. Currently containerizing for Railway deployment.</p>
+<p align="center"><a href="https://github.com/ysurendra25/finalbuildapp"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"/></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">📋 PlanYourDay — Productivity Web App</h3>
 <p align="center"><strong>React.js | Vite | JavaScript | Spring Boot (WIP)</strong></p>
 <p align="center">Responsive productivity app with task creation (priority/category), completion tracking, Pomodoro timers per task, and analytics dashboard with time logged, completion rate, and time distribution visuals.</p>
-<p align="center"><em>🔗 Repo coming soon...</em></p>
+<p align="center"><a href="https://github.com/ysurendra25/PlanYourDay"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"/></a></p>
 </td>
 </tr>
 <tr>
@@ -112,13 +109,13 @@ open_to_work: true ✅
 <h3 align="center">🌾 Crop Prediction using ML</h3>
 <p align="center"><strong>Python | Scikit-Learn | ML</strong></p>
 <p align="center">ML model predicting optimal crops based on soil, temperature, and rainfall factors. Compared Naive Bayes, SVM, Decision Tree, KNN, and Random Forest algorithms to help farmers make data-driven decisions.</p>
-<p align="center"><em>🔗 Repo coming soon...</em></p>
+<p align="center"><a href="https://github.com/ysurendra25"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"/></a></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">🧠 DSA Daily Practice</h3>
 <p align="center"><strong>Java | DSA | 100+ Problems</strong></p>
 <p align="center">Consistent daily practice of 100+ DSA problems covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, DP, and Recursion. Focused on time/space optimization for interview preparation.</p>
-<p align="center"><em>🔗 Repo coming soon...</em></p>
+<p align="center"><a href="https://github.com/ysurendra25/DSADailyPractisePrograms"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="View Code"/></a></p>
 </td>
 </tr>
 </table>
@@ -130,7 +127,7 @@ open_to_work: true ✅
 
 ```
 📅 2025  Kodnest Technologies — Java Full Stack Developer Intern
-         • Built CarRentalSystem backend with Spring Boot, JWT auth & REST APIs
+         • Built ShopSphere e-commerce backend with Spring Boot, JWT auth & REST APIs
          • Spring Data JPA/Hibernate with MySQL, tested via Postman, Agile/Scrum
 
 📅 2025  Rooman Technologies — Data Analyst Intern  
@@ -165,9 +162,9 @@ open_to_work: true ✅
 <!-- Fun Dev Quote -->
 ## 💡 Dev Philosophy
 
-> **"Code is like humor. When you have to explain it, it's bad."** — Cory House
+> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=500&height=40&lines=Happy+Coding+%F0%9F%98%8A;Keep+building%2C+keep+growing+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=500&height=40&lines=Happy+Coding!+%F0%9F%8E%89;Keep+building%2C+keep+growing+%F0%9F%8C%9F" alt="Typing SVG" />
 
 ---
 
@@ -181,7 +178,7 @@ open_to_work: true ✅
 ---
 
 <!-- Connect With Me -->
-## 🤝 Let's Connect!
+## 📫 Let's Connect!
 
 <p align="center">
 <a href="https://github.com/ysurendra25"><img src="https://img.shields.io/badge/GitHub-ysurendra25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
