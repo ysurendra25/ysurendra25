@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Surendra+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Spring+Boot+%7C+React+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+<!-- Header -->
+# Hi there! I'm Surendra 👋
 
 <!-- Profile Avatar with Ring Effect -->
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHoTV6hq4uNsA/profile-displayphoto-scale_200_200/B56ZvZu.eiHsAc-/0/1768884531096?e=1788393600&v=beta&t=152Zyz_DNWt3aUKWJd_9yF7ul4ujoylJyBHr551ik6A" width="150" height="150" style="border-radius: 50%; border: 4px solid #F75C03;" alt="Surendra's Profile Picture" />
@@ -41,10 +41,13 @@ open_to_work: true ✅
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=ysurendra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F75C03&icon_color=F75C03" height="200" alt="GitHub Stats Card" />
-<img src="https://streak-stats.demolab.com/?user=ysurendra25&theme=tokyonight&hide_border=true&ring=F75C03&fire=F75C03&currStreakLabel=F75C03" height="200" alt="GitHub Streak Stats" />
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ysurendra25&theme=tokyonight&hide_border=true&layout=compact&title_color=F75C03&langs_count=8" height="200" alt="Top Languages Card" />
+![Stars](https://img.shields.io/badge/Total_Stars-0-yellow?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Total_Repos-3-blue?style=for-the-badge&logo=github)
+![Commits](https://img.shields.io/badge/Total_Commits-50+-green?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
@@ -164,7 +167,7 @@ open_to_work: true ✅
 
 > **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F75C03&center=true&vCenter=true&random=false&width=500&height=40&lines=Happy+Coding!+%F0%9F%8E%89;Keep+building%2C+keep+growing+%F0%9F%8C%9F" alt="Typing SVG" />
+### ✨ Happy Coding! Keep building, keep growing! ✨
 
 ---
 
